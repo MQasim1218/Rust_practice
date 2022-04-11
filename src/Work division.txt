@@ -1,0 +1,46 @@
+
+Qasim {
+    01. Initiate Project            (User/System)
+    02. Add Brief                   (User)
+    03. Show Concept Design         (User/System)
+    04. Generate Report             (User/System)
+    05. Chat                        (User/Builder)
+}
+
+Ehtesham{
+    06. Register/Login              (User/Builder)
+    07. Resume Project              (User)
+    08. Estimate Price              (User/System)
+    09. Contact Builder             (User) 
+    10. Finalize Contract           (User)
+}
+
+Ismaeel{
+    
+    11. Make Payment                (User)
+    12. Verify Payment              (Builder)
+    13. Create Portfolio            (Builder)
+    14. Create Offer                (Builder)
+    15. Sign Contract               (Builder)
+
+}
+
+Nofal{
+    16. Accept Reject..Project      (Builder)
+    17. Update Project Status       (Builder)
+    18. Deliver Project             (Builder)
+    19. Handle Transaction          (System)
+    20. Save Changes                (System)
+}
+
+<==|<| |>|=>>
+
+??#####+++----+++###### <|{|!==??!==??!==|}|> >=||=<-<>->=||=<
+<=/<|:==:|>/=>
+Event Response {
+    Generate Report                 (System)
+    Generate Invoice                (System)
+    Handle Transaction              (System)
+    Register User                   (System)
+    Authorize Login                 (System)
+}

@@ -1,6 +1,7 @@
 #[allow(non_snake_case)]
-mod Closures;
+mod Macros;
 /*
+    mod Closures;
     mod Generics;
     mod Traits;
     mod control_flow__ifelse__loop;
@@ -8,7 +9,8 @@ mod Closures;
 */
 
 fn main() {
-    Closures::Runner();
+    Macros::Runner()
+    // Closures::Runner();
     // Generics::Runner();
     // Traits::Runner();
 
@@ -22,7 +24,7 @@ fn main() {
     */
     //     for chars in &arr[1..5] {
     //         print!("{}\n", chars);
-    //     }
+    // }
 
     //     let str_slice = "This isnt a String.. It is a slice of a string";
     //     let str = str_slice.to_string();
